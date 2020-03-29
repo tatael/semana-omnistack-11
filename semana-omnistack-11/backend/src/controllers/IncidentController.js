@@ -29,7 +29,7 @@ module.exports = {
 			title,
 			description,
 			value,
-			ongId,
+			ongId
 		})
 
 		return response.json({ id })
